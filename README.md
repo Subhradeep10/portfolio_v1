@@ -1,6 +1,7 @@
 # Portfolio of Subhradeep Samanta
 
-<img src ="https://github.com/CodeVinayak/CodeVinayak/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.vinayaksingh.in.png" />
+![Screenshot from 2024-01-23 22-04-38](https://github.com/Subhradeep10/portfolio_v1/assets/70656957/aba7a6a8-88db-4e87-814e-74dc294aee65)
+
  
 This project was created with CRA (Create React App)
 
