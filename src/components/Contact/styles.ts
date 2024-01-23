@@ -8,7 +8,7 @@ export const Container = styled.section`
     text-align: center;
     h2{
       text-align: center;
-      font-size: 4rem;
+      font-size: 2rem;
     }
     p{
       color: var(--green);
@@ -28,11 +28,11 @@ export const Container = styled.section`
       align-items: center;
       justify-content: center;
       width: 50%;
-      max-width: 30rem;
+      max-width: 40rem;
       gap: 2rem;
       background-color: var(--green);
       border-radius: 1.4rem;
-      padding: 1.6rem 2.8rem;
+      padding: 2rem 5rem;
       transition: background-color 0.25s;
       img{
         width: 4rem;

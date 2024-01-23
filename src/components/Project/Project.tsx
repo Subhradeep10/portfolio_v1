@@ -16,22 +16,27 @@ export function Project() {
       <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#A020F0 " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://kameleon.co.in/" target="_blank" rel="noreferrer">
+                <a href="https://works.snapsmart.in/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Kameleon - Cloth Selling Site</h3>
+              <h3>SnapSmart</h3>
               <p>
-              This website sells men's cloth products and helps men look their best. It is easy to find what you need, whether it's cloth shirts, pants, or accessories. The site is useful for men who want to look their best and need some help.
+              Developing a B2B supply chain IoT software involves utilizing the MERN stack (MongoDB, Express.js, React, Node.js) and AWS. The process includes understanding supply chain requirements, designing architecture, integrating IoT devices, developing backend APIs, setting up MongoDB for data storage, creating a responsive React frontend, and leveraging AWS services for scalability and cloud computing.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Shopify</li>
+                <li>Mongo DB</li>
+                <li>Express JS</li>
+                <li>React JS</li>
+                <li>Node JS</li>
+                <li>Tailwind CSS</li>
+                <li>AWS</li>
               </ul>
             </footer>
           </div>
@@ -40,23 +45,27 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#A020F0 " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://madewithluv.in/" target="_blank" rel="noreferrer">
+                <a href="https://admin.snapsmart.in/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>MadeWithLuv - HomeDecor Site</h3>
+              <h3>SnapSmart Admin</h3>
               <p>
-              This website sells home decor products and helps people decorate their homes. It is easy to find what you need, whether it's furniture or decorations. The site is useful for people who want to make their homes look nice and need some help.
+              Spearheading the B2B supply chain IoT software on the admin platform, I harness the power of the MERN stack (MongoDB, Express.js, React, Node.js) and AWS. My role encompasses deciphering supply chain necessities, architecting solutions, integrating IoT devices, crafting robust backend APIs, configuring MongoDB for seamless data storage, developing a responsive React frontend, and harnessing AWS services for optimal scalability and cloud computing.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Wordpress</li>
-                <li>Woocommerce</li>
+                <li>Mongo DB</li>
+                <li>Express JS</li>
+                <li>React JS</li>
+                <li>Node JS</li>
+                <li>Tailwind CSS</li>
+                <li>AWS</li>
               </ul>
             </footer>
           </div>
@@ -65,23 +74,25 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#A020F0 " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://justmedicalbooks.com/" target="_blank" rel="noreferrer">
+                <a href="https://github.com/AgriAgio" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>MedicalBooks - Book Selling Site</h3>
+              <h3>AgriAgio</h3>
               <p>
-              This website sells medical books online and is popular with medical students. Medical students use it to buy books and acquire knowledge. The site has all kinds of medical books in one place.
+              AgriAgio stands as a distinguished online B2C agri-commerce platform, facilitating the seamless exchange of agricultural products such as seeds and crops. The platform is meticulously crafted using the dynamic duo of React and NodeJs. Furthermore, our meticulously designed Admin Panel, developed with React, ensures efficient oversight and management.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Wordpress</li>
-                <li>Woocommerce</li>
+                <li>Mongo DB</li>
+                <li>Express JS</li>
+                <li>React JS</li>
+                <li>Node JS</li>
               </ul>
             </footer>
           </div>
@@ -114,22 +125,25 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#A020F0 " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://drrohitdamor.com" target="_blank" rel="noreferrer">
+                <a href="https://yaatra.netlify.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Dr.Rohit Damor - Online Appointment Booking Site</h3>
+              <h3>Yaatra</h3>
               <p>
-              This website allows people to easily book appointments with you online. It takes just a minute to schedule a meeting. This kind of site is helpful for booking appointments and not missing any potential clients. You should try this website to see how convenient and efficient it is.
+              Yaatra emerges as a premier online booking platform and software tailored for the dynamic travel and tourism industry. With a focus on rental bookings and hotel accommodations, the platform harmoniously integrates React and NodeJs technologies. The intricately designed Admin Panel, crafted with React, ensures seamless oversight and management for enhanced operational efficiency.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Wordpress</li>
+                <li>Mongo DB</li>
+                <li>Express JS</li>
+                <li>React JS</li>
+                <li>Node JS</li>
               </ul>
             </footer>
           </div>
@@ -138,25 +152,23 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#A020F0 " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://velocityai.vinayaksingh.com/" target="_blank" rel="noreferrer">
+                <a href="https://www.github.com/Subhradeep10/DevAcademy" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>VeloCityAI</h3>
+              <h3>DevAcademy</h3>
               <p>
-              VelocityAI is a website that allows users to get instant answers to any question and generate stunning AI pictures using OpenAI's GPT-3 and DALL-E model.With VelocityAI, users can type in text-based prompts and receive a corresponding response.
+              Introducing a cross-platform app curated exclusively for developers, where innovation meets convenience. Access a hub of unique tools and resources designed to elevate your development experience. Stay ahead with a suite of unparalleled features, tailored for the discerning developer community.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>React</li>
-                <li>Typescript</li>
-                <li>Html</li>
-                <li>css</li>
+                <li>Flutter</li>
+                <li>Material UI</li>
               </ul>
             </footer>
           </div>
@@ -185,30 +197,6 @@ export function Project() {
             </footer>
           </div>
         </ScrollAnimation> */}
-
-        <ScrollAnimation animateIn="flipInX">
-          <div className="project">
-            <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
-              <div className="project-links">
-                <a href="https://mayatmaj.com/" target="_blank" rel="noreferrer">
-                  <img src={externalLink} alt="Visit site" />
-                </a>
-              </div>
-            </header>
-            <div className="body">
-              <h3>Mayatmaj - Film Production Site</h3>
-              <p>
-              This agency website promotes post production, virtual production, and video marketing services. It shows previous client work and reviews to get more business. If you need help with production, this website can give you information and connect you with the right people.
-              </p>
-            </div>
-            <footer>
-              <ul className="tech-list">
-                <li>Wordpress</li>              
-              </ul>
-            </footer>
-          </div>
-        </ScrollAnimation>
        
 
       </div>
